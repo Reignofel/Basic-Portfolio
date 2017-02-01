@@ -1,0 +1,45 @@
+body{
+	background-color: #999;
+	background-image: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Business-Globe-HD-Wallpapers.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	text-decoration: underline;
+	font-family:sans-serif cursive;
+	padding: 20px;
+	text-align: center;
+	border: 2px solid blue;
+	background-image: url("https://c1.staticflickr.com/4/3062/2762785726_08d03bb2f7.jpg");
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+img {
+	background-color: blue;
+	padding:10px;
+	margin-left:35%;
+	margin-right: 35%
+	height: 600px;
+	width: 350px;
+	
+}
+
+p{
+	color: red;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+ul{
+	border: 2px solid black;
+	width: 250px;
+	margin-left: 525px;
+}
